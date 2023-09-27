@@ -1,12 +1,33 @@
 ## 25th Anniversary edition of Silvio Cesare's UNIX VIRUSES manual
 
-The year was 1998, I was about 15yrs old. At this time, the underground hacking scene had a mystical
-undercurrent, but was teaming with life on EFNET IRC: #phrack, #hackers, #b4b0, etc. I was loosely
-acquainted with Silvio through mutual groups, zines, and channels. It was quickly apparent to me
-that Silvio was a mad scientist who's ingenius research only got more innovative with each paper.
-At this time Silvio's deepest interest was ELF virus infection, for which he paved the way through
-a series of radical papers dropping non-trivial details on this subject that was considered esoteric
-even among the greatest hackers at that time.
+Dedicated to Silvio Cesare, the father of UNIX Viruses...
+
+The year was 1998, I "elfmaster" was about 15yrs old. At this time, the
+underground hacking scene had a mystical undercurrent and was teaming with
+digital life on EFNET IRC: #phrack, #hackers, #b4b0, etc.  I was acquainted
+with Silvio through mutual channels and zines. It was quickly apparent to me
+that Silvio was a mad scientist who's brilliant research only got more
+innovative with each publication.  At this time Silvio's deepest interest lied
+in the pioneering of ELF virus infection, for which he paved the way through a
+series of radical papers dropping non-trivial details on this subject that was
+considered esoteric even amongst the most elite hackers of the time-- at this
+time UNIX/Linux reverse engineering and virus design was infintile in its
+state of evolution. Silvio raised the state of the art in UNIX/Linux reversing
+through his innovation of ELF virus technology, greatly impacting the
+underground hacker scene and acadamea for decades to come... 
+
+At some point during the golden era of 1998, the paper "UNIX Viruses"
+caught my attention on VXHeaven under the "UNIX and Clones" reading section.
+A highly technical paper by Silvio detailing 3 new infection techniques, relocatable code
+injection, position-independent code techniques, ELF virus detection, and more.
+This paper (And others) of Silvio's invograted me, I was compelled to learn
+with a tenacity purely inspired by this magical and arcane research.
+Silvio's work in pioineering ELF virus technology was groundbreaking for computer
+security and computer science technologies in general...
+
+Here we are now, 25 years later. At tmp.0ut we carry deep love and respect
+for Silvio and his profound body of research. Let us honor his work by releasing
+the 25th Anniversary edition of "UNIX Viruses"!
 
 
 UNIX VIRUSES
