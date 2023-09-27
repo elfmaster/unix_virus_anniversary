@@ -1,3 +1,14 @@
+## 25th Anniversary edition of Silvio Cesare's UNIX VIRUSES manual
+
+The year was 1998, I was about 15yrs old. At this time, the underground hacking scene had a mystical
+undercurrent, but was teaming with life on EFNET IRC: #phrack, #hackers, #b4b0, etc. I was loosely
+acquainted with Silvio through mutual groups, zines, and channels. It was quickly apparent to me
+that Silvio was a mad scientist who's ingenius research only got more innovative with each paper.
+At this time Silvio's deepest interest was ELF virus infection, for which he paved the way through
+a series of radical papers dropping non-trivial details on this subject that was considered esoteric
+even among the greatest hackers at that time.
+
+
 UNIX VIRUSES
 
 	- Silvio Cesare <silvio@big.net.au>
